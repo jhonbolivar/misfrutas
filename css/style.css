@@ -1,0 +1,55 @@
+
+.titulo {
+    color:green;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+.subtitulos {
+    color:black;
+    font-size: 30px;
+    font-family: 'RocknRoll One', sans-serif;
+    margin: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+ol{
+    display: flex;
+    width: 600px;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0 auto;
+}
+img {
+    width: 240px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+figcaption{
+    margin-top: 5px;
+    text-align: left;
+    font-size: 15px;
+    font-family: Josefin Sans;
+    color:black;
+}
+
+p{
+    color: blue;
+    font-size: 55px;
+    text-align: center;
+    font-style: italic;
+}
+
+body{
+    background-color: gold;
+}
+
+li{
+    color: black;
+    font-size: 15px;
+    font-style: italic;
+}
